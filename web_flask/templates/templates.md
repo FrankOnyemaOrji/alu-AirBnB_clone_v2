@@ -53,6 +53,8 @@
   </body>
 </html>
 
+**End**
+
 
 **100-hbnb.html**
 
@@ -131,6 +133,8 @@
   </body>
 </html>
 
+**End**
+
 
 **5-number.html**
 
@@ -144,6 +148,8 @@
     </BODY>
 </HTML>
 
+**End**
+
 
 **6-number_odd_or_even.html**
 <!DOCTYPE html>
@@ -155,6 +161,8 @@
         <H1>Number: {{ n }} is {% if n % 2 == 0 %}even{% else %}odd{% endif %}</H1>
     </BODY>
 </HTML>
+
+**End**
 
 
 **7-states_list.html**
@@ -173,6 +181,8 @@
         </UL>
     </BODY>
 </HTML>
+
+**End**
 
 
 **8-cities_by_states.html**
@@ -197,6 +207,8 @@
         </UL>
     </BODY>
 </HTML>
+
+**End**
 
 
 **9-states.html**
@@ -227,3 +239,5 @@
 		{% endif %}
     </BODY>
 </HTML>
+
+**End**
